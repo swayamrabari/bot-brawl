@@ -1,0 +1,19 @@
+{
+  "name": "Bot Brawl",
+  "short_name": "Bot Brawl",
+  "description": "A single-player 2D jetpack arena shooter built with React and Canvas.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#111527",
+  "theme_color": "#111527",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

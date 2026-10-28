@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Bot Brawl">
+  <rect width="64" height="64" rx="14" fill="#111527" />
+  <circle cx="32" cy="32" r="18" fill="none" stroke="#ffe066" stroke-width="4" />
+  <circle cx="32" cy="32" r="8" fill="#ff4d5e" />
+  <path
+    d="M32 5v11M32 48v11M5 32h11M48 32h11"
+    stroke="#f6f1e7"
+    stroke-width="4"
+    stroke-linecap="round"
+  />
+  <circle cx="32" cy="32" r="2.5" fill="#fffdf3" />
+</svg>
